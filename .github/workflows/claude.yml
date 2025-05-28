@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Claude Code
         id: claude
-        uses: mormorbump/claude-code-action@beta
+        uses: mormorbump/claude-code-action@main
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           # Option 2: Use OAuth for Claude Max subscribers (comment out API key above)
