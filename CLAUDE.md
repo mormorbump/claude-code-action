@@ -1,5 +1,5 @@
 # CLAUDE.md
-
+日本語で話してください。
 This file provides guidance to Claude Code when working with code in this repository.
 
 ## Development Tools
